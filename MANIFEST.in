@@ -1,0 +1,2 @@
+include LICENSE.txt requirements.txt requirements-dev.txt
+recursive-exclude tests *
